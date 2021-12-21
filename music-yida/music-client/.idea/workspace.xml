@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e4feee1-d6a6-4972-a1f9-fbb4b2aa24dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21BABW77GSnLKXG6Of8QVhEIDQA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProjects\Autumn05\Back\music-client\src\assets\img" />
+      <recent name="D:\GraduationDesign\Back\music-client\src\assets\css" />
+      <recent name="D:\GraduationDesign\Back\music-client\static\img" />
+      <recent name="D:\GraduationDesign\Back\music-client\src\assets\img" />
+      <recent name="D:\GraduationDesign\Back\music-client\static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e4feee1-d6a6-4972-a1f9-fbb4b2aa24dd" name="Default Changelist" comment="" />
+      <created>1637403971959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637403971959</updated>
+      <workItem from="1637403973978" duration="6770000" />
+      <workItem from="1637548733685" duration="3747000" />
+      <workItem from="1637577726356" duration="2888000" />
+      <workItem from="1637714532781" duration="1124000" />
+      <workItem from="1637751820671" duration="1373000" />
+      <workItem from="1638339775463" duration="607000" />
+      <workItem from="1638412199957" duration="901000" />
+      <workItem from="1638514158858" duration="37000" />
+      <workItem from="1638515757382" duration="1388000" />
+      <workItem from="1638585024454" duration="1193000" />
+      <workItem from="1638751298827" duration="5467000" />
+      <workItem from="1638836943159" duration="475000" />
+      <workItem from="1638922921168" duration="865000" />
+      <workItem from="1638924356389" duration="3666000" />
+      <workItem from="1639009095538" duration="3599000" />
+      <workItem from="1639039795578" duration="8000" />
+      <workItem from="1639098435646" duration="3301000" />
+      <workItem from="1639303708780" duration="2014000" />
+      <workItem from="1639360129291" duration="1852000" />
+      <workItem from="1639448901689" duration="225000" />
+      <workItem from="1639449140670" duration="2690000" />
+      <workItem from="1639528628210" duration="703000" />
+      <workItem from="1639546008768" duration="622000" />
+      <workItem from="1639636890290" duration="1047000" />
+      <workItem from="1640057333072" duration="522000" />
+      <workItem from="1640057865634" duration="12000" />
+      <workItem from="1640058149919" duration="263000" />
+      <workItem from="1640058418033" duration="93000" />
+      <workItem from="1640058514298" duration="1188000" />
+    </task>
+    <task id="LOCAL-00001" summary="01">
+      <created>1640058574603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640058574603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01" />
+    <option name="LAST_COMMIT_MESSAGE" value="01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="167" key="#ESLint" timestamp="1638751924177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="167" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1638751924177" />
+    <state x="386" y="130" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637541321536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="386" y="130" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1637541321536" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1640058573579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1640058573579" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1640058359619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640058359619" />
+    <state x="579" y="331" key="Github.CreateGistDialog" timestamp="1640058211988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="331" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1640058211988" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1640059004086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640059004086" />
+    <state x="389" y="78" width="722" height="684" key="find.popup" timestamp="1639105103085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="58" width="601" height="564" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1637714643371" />
+    <state x="389" y="78" width="722" height="684" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1639105103085" />
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1640059113576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640059113576" />
+  </component>
+</project>
